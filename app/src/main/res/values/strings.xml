@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YourSchoolApp</string>
+    <string name="txtMySchoolName">St. Petersburg College</string>
+    <string name="imageMySchool">image of St. Petersburg College Campus</string>
+    <string name="btnCollegeInfo">Information of College</string>
+    <string name="txtSchoolName2">St. Petersburg College - Clearwater</string>
+    <string name="imageLogo">image of SPC logo</string>
+    <string name="txtAddress1">6021 142nd Ave N,</string>
+    <string name="txtAddress2">Clearwater, FL 33760</string>
+    <string name="txtPhoneNumber">(727) 341 – 4772</string>
+</resources>
